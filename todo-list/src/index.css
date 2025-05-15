@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  padding: 10px;
+  background: #f4f4f4;
+}
+
+.deleteButton{
+  background-color: red;
+  color: white;
+}
